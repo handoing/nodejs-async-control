@@ -58,4 +58,3 @@ nodejs的async提供了这样的方法
 	// iterator(val, callback)
 
 
-test
